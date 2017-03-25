@@ -1,0 +1,69 @@
+2017-03-23 23:57:49 - PHP Notice:  Undefined variable: i in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:57:49 - PHP Notice:  Undefined index:  in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:57:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:32 - PHP Notice:  Undefined variable: i in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:32 - PHP Notice:  Undefined index:  in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:35 - PHP Notice:  Undefined variable: i in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:35 - PHP Notice:  Undefined index:  in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:46 - PHP Notice:  Undefined variable: i in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:46 - PHP Notice:  Undefined index:  in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-23 23:58:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 10
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:01:35 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 0:03:29 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
