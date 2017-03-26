@@ -67,3 +67,124 @@
 2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
 2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
 2017-03-24 6:35:01 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 12:15:41 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:15:46 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:16:57 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updtepre.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:21:34 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updtepre.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:26:20 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updtepre.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:26:44 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:30:14 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:33:50 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:35:05 - PHP Notice:  Error: Could not load template C:/OpenServer/opencart/localhost/admin/view/template/extension/module/updateprice.tpl! in C:\OpenServer\opencart\localhost\system\library\template\php.php on line 23
+2017-03-25 12:37:02 - PHP Notice:  Undefined variable: module in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 2
+2017-03-25 12:37:02 - PHP Notice:  Undefined variable: banners in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 3
+2017-03-25 12:37:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 3
+2017-03-25 12:37:02 - PHP Notice:  Undefined variable: module in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 14
+2017-03-25 12:37:26 - PHP Notice:  Undefined variable: module in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 4
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: error_warning in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 3
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: success in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 8
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: text_layout in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 13
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: column_name in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 18
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: column_action in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 19
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: extensions in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 23
+2017-03-25 12:42:28 - PHP Notice:  Undefined variable: text_no_results in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 53
+2017-03-25 12:54:49 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-25 12:54:49 - PHP Notice:  Undefined variable: error_warning in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 17
+2017-03-25 12:55:27 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-25 12:56:09 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-25 12:59:16 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:18:43 - PHP Unknown:  Object of class DOMElement could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
