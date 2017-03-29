@@ -188,3 +188,584 @@
 2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
 2017-03-25 13:33:50 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
 2017-03-25 13:33:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-26 18:29:12 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-26 18:29:42 - PHP Notice:  Undefined variable: cancel in C:\OpenServer\opencart\localhost\admin\view\template\extension\module\updateprice.tpl on line 7
+2017-03-27 22:23:45 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:25:30 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:25:35 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Notice:  Undefined index: , in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:32:55 - PHP Warning:  fputcsv() expects parameter 2 to be array, null given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Notice:  Undefined index: " in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:33:15 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:35:24 - PHP Warning:  fgetcsv() expects parameter 1 to be resource, array given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 39
+2017-03-27 22:37:13 - PHP Warning:  fgetcsv() expects parameter 1 to be resource, array given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 39
+2017-03-27 22:44:12 - PHP Warning:  fgetcsv() expects parameter 1 to be resource, array given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 39
+2017-03-27 22:45:03 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:45:03 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:49:11 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 25
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:49:11 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 27
+2017-03-27 22:50:06 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 35
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:50:06 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 37
+2017-03-27 22:51:30 - PHP Warning:  fopen(file.csv): failed to open stream: Permission denied in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 32
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-27 22:51:30 - PHP Warning:  fputcsv() expects parameter 1 to be resource, boolean given in C:\OpenServer\opencart\localhost\admin\controller\extension\module\updateprice.php on line 34
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: product_info in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 14
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 14
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Notice:  Undefined variable: rez in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 45
+2017-03-28 16:19:36 - PHP Notice:  Undefined variable: product_info in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 14
+2017-03-28 16:19:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 14
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:44 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 22
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:22:57 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 23
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:12 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 25
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:31:32 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:38:42 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:09 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:21 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:50 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 21
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:39:52 - PHP Unknown:  Object of class DOMDocument could not be converted to string in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 59
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:14 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19
+2017-03-28 16:53:41 - PHP Notice:  Undefined variable: jp in C:\OpenServer\opencart\localhost\catalog\controller\tool\sitemap.php on line 19

@@ -1,36 +1,34 @@
 <?php
-class ControllerExtensionModuleUpdateprice extends Controller {
+class ControllerPromotionSale extends Controller {
 	public function index() {
+		echo "Hi";
 		$this->load->model('catalog/product');
 		$product_info = $this->model_catalog_product->getProducts();
 		echo "<pre>";
-		$ff=[];
+//		print_r ($product_info);
 		$fp = [];
 		array_push($fp, "product_id");
-		array_push($fp, "quantity");
 		array_push($fp, "meta_title");
-		array_push($ff, $fp);
+		array_push($fp, "quantity");
+		print_r $fp;
 		foreach ($product_info as $key) {
-			$fp=[];
 			foreach ($key as $i=>$j) {
+				
+				echo $j."<br>";
 				switch ($i){
 					case "product_id":
-					array_push($fp, $j);
+					file_put_contents('./data.csv',$i, FILE_APPEND | LOCK_EX);
 					continue;
 					case "meta_title":
-					array_push($fp, $j);
+					file_put_contents('./data.csv',$i, FILE_APPEND | LOCK_EX);
 					continue;
 					case "quantity":
-					array_push($fp, $j);
+					file_put_contents('./data.csv',$i, FILE_APPEND | LOCK_EX);
 					continue;
 				}
 			}
-			array_push($ff, $fp);
+
 		}
-		print_r ($ff);
-		$fw = fopen('file.csv', 'w+');
-		foreach ($ff as $fs) {
-			fputcsv($fw, $fs, ";");
-		}
+
 	}
 }
